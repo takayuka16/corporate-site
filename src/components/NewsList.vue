@@ -47,7 +47,7 @@ const clickPress = () => {
 <style scoped>
 .wrapper {
   width: 70%;
-  margin: 0 auto;
+  margin: 100px auto;
 }
 
 .switch-btn {
